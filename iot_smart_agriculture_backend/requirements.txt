@@ -1,0 +1,7 @@
+fastapi
+uvicorn[standard]
+SQLAlchemy
+pydantic-settings
+paho-mqtt
+pytest
+httpx
